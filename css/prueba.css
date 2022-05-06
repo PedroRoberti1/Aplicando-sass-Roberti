@@ -1,0 +1,11 @@
+header {
+  background-color: #ff1e00; }
+  header nav {
+    text-align: center; }
+    header nav a {
+      color: black;
+      font-family: verdana; }
+      header nav a:hover {
+        color: white; }
+    header nav .item-contacto {
+      color: brown; }

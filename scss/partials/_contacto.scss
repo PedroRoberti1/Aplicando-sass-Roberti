@@ -1,0 +1,20 @@
+@import "variables/variables";
+
+header{
+    background-color: $color-fondo-header;
+    nav{
+        text-align: center;
+        a{
+            color: black;
+            font-family: $tipo-de-letra;
+            &:hover{
+                color: white;
+                
+            }
+        } 
+        .item-contacto{
+            color: brown;
+        }
+
+    }
+}
